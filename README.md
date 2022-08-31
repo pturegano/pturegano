@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as Service Engineer at [Microsoft Advertising](https://about.ads.microsoft.com)
-- I have a personal blog page -> [carrerdedalt.net](https://carrerdedalt.net/)
+- I have a personal empty blog page -> [carrerdedalt.net](https://carrerdedalt.net/)
 - I'm here to expand my network and collaborate in nice initiativies
 - I wrote my first program in Basic in the amazing **Amstrad CPC 464** 30 years ago.
 
